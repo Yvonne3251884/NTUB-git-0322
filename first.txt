@@ -5,7 +5,13 @@ ahfvnjd
 
 svas
 aaa
+<<<<<<< HEAD
 bbb
 nkldhcgjhgkjhnbhfdf
 ddd
 eee
+=======
+bbb
+>>>>>>> parent of 1a5f368... 1111
+
+jfiehfef
